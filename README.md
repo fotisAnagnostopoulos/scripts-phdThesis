@@ -1,0 +1,2 @@
+# scripts-phdThesis
+There scripts and data that used for making some of the images contained my Phd thesis at National and Kapodistrian University of Athens, 2017-2021 could be found. Among them there are plots of different comological data along with the Hubble rate of various cosmological models. Also, there are examples of likelihood analysis and a home-made Metropolis-Hastings sampler. The codes and data are to be publicly available in the spirit of Creative Commons and the hope that it will be usefull for others..
